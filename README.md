@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 I'm Yrriel, a passionate hobbyist full-stack developer with a love for crafting dynamic and user-friendly web applications. My journey into the world of development began with a curiosity about how things work behind the scenes, and it has since evolved into a full-blown hobby. While I’m still relatively new to this field, I’m passionate about learning and eager to build my skills.
 
 [![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)]()
-[![Discord](https://custom-icon-badges.demolab.com/badge/-PH-grey?style=for-the-badge&logo=googlemaps&logoColor=%23fff&label=Manila&labelColor=red)]()
-[![](https://custom-icon-badges.demolab.com/badge/-Alldemonium-blue?style=for-the-badge&logo=Discord&logoColor=%23fff)]()
+[![Location](https://custom-icon-badges.demolab.com/badge/-PH-grey?style=for-the-badge&logo=googlemaps&logoColor=%23fff&label=Manila&labelColor=red)]()
+[![Discord](https://custom-icon-badges.demolab.com/badge/-Alldemonium-blue?style=for-the-badge&logo=Discord&logoColor=%23fff)]()
