@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 I'm Yrriel, a passionate hobbyist Software developer with a love for crafting dynamic and user-friendly web applications. My journey into the world of development began with a curiosity about how things work behind the scenes, and it has since evolved into a full-blown hobby. While I’m still relatively new to this field, I’m passionate about learning and eager to build my skills.
 
 [![Location](https://custom-icon-badges.demolab.com/badge/-PH-grey?style=for-the-badge&logo=googlemaps&logoColor=%23fff&label=Manila&labelColor=red)]()
-[![Discord](https://custom-icon-badges.demolab.com/badge/-Yrriel-blue?style=for-the-badge&logo=Linkedin&logoColor=%23fff)](https://www.linkedin.com/in/yrriel-buensuceso-2287a8329/)
+[![Discord](https://custom-icon-badges.demolab.com/badge/-Li-blue?style=for-the-badge&logo=Linkedin&logoColor=%23fff&label=Yrriel&labelColor=blue)](https://www.linkedin.com/in/yrriel-buensuceso-2287a8329/)
