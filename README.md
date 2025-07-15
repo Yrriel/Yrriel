@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 #  Yrriel
 
-**`Go with the flow`**
-
 I'm Yrriel, a passionate hobbyist Software developer with a love for crafting dynamic and user-friendly web applications. My journey into the world of development began with a curiosity about how things work behind the scenes, and it has since evolved into a full-blown hobby. While I’m still relatively new to this field, I’m passionate about learning and eager to build my skills.
 
 [![Location](https://custom-icon-badges.demolab.com/badge/-PH-grey?style=for-the-badge&logo=googlemaps&logoColor=%23fff&label=Manila&labelColor=red)]()
